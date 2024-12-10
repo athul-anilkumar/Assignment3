@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 changes from branch B1
+=======
+changes from B2
+>>>>>>> B2
